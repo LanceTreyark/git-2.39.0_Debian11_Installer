@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # You can curl this script with this command: 
-# $ curl -O github_raw_url
+# $ curl -O https://raw.githubusercontent.com/LanceTreyark/git-2.39.0_Debian11_Installer/main/git.installer.v1.0.sh
 
 # Make the script executable with this command: 
 # $ sudo chmod +x git.installer.v1.0.sh
