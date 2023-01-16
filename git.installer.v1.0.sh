@@ -1,5 +1,10 @@
 #!/bin/bash
 
+
+# DEPRECIATED   DEPRECIATED   DEPRECIATED   DEPRECIATED   DEPRECIATED   DEPRECIATED by repoMan_i1.0.sh
+
+
+
 # You can curl this script with this command: 
 # $ curl -O https://raw.githubusercontent.com/LanceTreyark/git-2.39.0_Debian11_Installer/main/git.installer.v1.0.sh
 
