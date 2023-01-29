@@ -1,17 +1,10 @@
-no scriptTitle.shc
-Date...........1.9.23
-Author.........Lance Pierson
-Author Email...info@treyark.com
 
-# Executive Sumary:
+# WARNING!
+# THIS CODE IS FOR HISTORICAL REFERENCE ONLY
+# THIS CODE IS GARBAGE, DON'T WASTE YOU TIME!!!
 
-# THIS Repo is public but this is a work in progress dont try to run any of these, the scripts in this repo are for developer discussion only.
-
-# Nothing here is good!
-# look away it's embarrassing 
-
-Index:
-1)
-2)
-3)
-comment
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.treyark.com/wp-content/uploads/2023/01/warno.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://media.treyark.com/wp-content/uploads/2023/01/warno.jpg">
+ <img alt="Large Warning Symbol" src="https://media.treyark.com/wp-content/uploads/2023/01/warno.jpg">
+</picture>
